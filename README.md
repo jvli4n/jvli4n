@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi I'm Julian!
 
-<!--
-**jvli4n/jvli4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently in my Psychology Research Master at the University of Amsterdam specialising in psychological methods. I am passionate about everything that involves coding, statistics or data science.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/JASP_logo.svg" width="27"/> JASP
+I have been helping with maintaining the [JASP](https://github.com/jasp-stats) codebase. As part of my internship, I created a [Bayesian Gauge R&R](https://github.com/jvli4n/jaspQualityControl/tree/creating-bayesian-gaugerR) quality control analysis.
+
+### 📊 Data Science
+During a course on Big Data Analytics, we participated in internal Kaggle competitions on three different topics that required machine learning:
+
+1. [Movement classification](https://github.com/jvli4n/big-data-analysis/blob/main/Kaggle%20competitions/Physical%20activity%20classifier.ipynb)
+2. [Text analysis](https://github.com/jvli4n/big-data-analysis/blob/main/Kaggle%20competitions/Offensive%20tweet%20detection.ipynb)
+3. [Emotion recognition](https://github.com/jvli4n/big-data-analysis/blob/main/Kaggle%20competitions/Human%20faces.ipynb)
+
+*Note: All competitions were group projects.*

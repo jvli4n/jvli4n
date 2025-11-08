@@ -4,7 +4,7 @@ I am currently in my Psychology Research Master at the University of Amsterdam s
 
 ## Projects
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/JASP_logo.svg" width="27"/> JASP
+### <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/JASP_logo.svg" width="27" style="vertical-align:middle;"/> JASP
 I have been helping with maintaining the [JASP](https://github.com/jasp-stats) codebase. As part of my internship, I created a [Bayesian Gauge R&R](https://github.com/jvli4n/jaspQualityControl/tree/creating-bayesian-gaugerR) quality control analysis.
 
 ### 📊 Data Science
